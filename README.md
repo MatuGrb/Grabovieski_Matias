@@ -3,4 +3,4 @@
 ### Silicon Misiones - https://siliconmisiones.gob.ar/
 #### Grabovieski Matias Alejandro
 Este repositorio fue creado con fines académicos. 
-Contiene los ejercicios resueltos del Módulo 1
+Contiene los ejercicios resueltos del Módulo 1 (Modulo 2/TP1-Algoritmos)
